@@ -1,3 +1,7 @@
+### note on this fork
+
+This is just an exact copy of a7digital/imagecycle including the two pending pull requests [#3](https://github.com/a7digital/imagecycle/pull/3) and [#4](https://github.com/a7digital/imagecycle/pull/4) and a changed version. As soon as the pull requests are merged in the parent repository, this fork is not needed any more.
+
 # TYPO3 Extension Imagecycle
 
 This repository is a fork of the currently unmaintained TYPO3 Extension
